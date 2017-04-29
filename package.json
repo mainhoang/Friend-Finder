@@ -16,8 +16,8 @@
     "express",
     "html",
     "bootstrap",
-    "dating",
-    "app",
+    "dating-app",
+    "friend-finder",
     "compatibility"
   ],
   "author": "Mai",
