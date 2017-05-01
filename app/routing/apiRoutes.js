@@ -26,9 +26,10 @@ module.exports = function(app){
 
         }
         console.log(friends[index]);
+        
 
         friends.push(currFriend);
-        res.json(true);
+        res.json(friends[index]);
 
     })
 
