@@ -1,9 +1,9 @@
 # Match-Maker
 
-This is my attempt at making a dating app. Take the survey & then, Match-Maker will pair you up with our most compatible bachelorette/bachelor!
+This is a compatibility app built with Node.js, Express, & Bootstrap. The app takes the values of answers from your survey & returns your most compatible match.
 
 ## Technologies Used
 * Node.js
-* Express Servers
+* Express
 * HTML
 * Bootstrap
